@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:06892eaf-48bc-5e2e-9e4c-208be2f12a6e",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T14:54:32Z",
+  "component": {
+   "type": "application",
+   "name": "OHPC",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/OHPC@83b357604d34",
+   "purl": "pkg:generic/anticloud/OHPC@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "Apache-2.0"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
